@@ -1,0 +1,4 @@
+Változók:
+https://www.w3schools.com/python/python_variables.asp
+Változó nevek:
+https://www.w3schools.com/python/python_variables_names.asp

@@ -1,0 +1,3 @@
+https://www.w3schools.com/python/python_strings_methods.asp
+https://gyires.inf.unideb.hu/EFOP344/PythonHTML/strings.html
+https://codejunctionpro.com/21-string-methods-in-python-very-important/

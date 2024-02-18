@@ -1,0 +1,5 @@
+String print:
+https://www.w3schools.com/python/python_strings.asp
+Escape karakterek:
+https://www.w3schools.com/python/python_strings_escape.asp
+https://www.geeksforgeeks.org/preventing-escape-sequence-interpretation-in-python/

@@ -1,0 +1,8 @@
+Típusok:
+https://www.w3schools.com/python/python_datatypes.asp
+Számok:
+https://www.w3schools.com/python/python_numbers.asp
+Stringek:
+https://www.w3schools.com/python/python_strings.asp
+Bool:
+https://www.w3schools.com/python/python_booleans.asp
