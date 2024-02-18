@@ -30,7 +30,7 @@ while True:
     students.append(student)
 
 print(max())
-
+print(max())
 
 
 
